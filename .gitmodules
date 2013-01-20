@@ -22,3 +22,6 @@
 [submodule "cookbooks/git"]
 	path = cookbooks/git
 	url = git@github.com:tollmanz/git.git
+[submodule "cookbooks/curl"]
+	path = cookbooks/curl
+	url = git@github.com:tollmanz/cookbook-curl.git
