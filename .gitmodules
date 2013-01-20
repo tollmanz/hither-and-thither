@@ -19,3 +19,6 @@
 [submodule "cookbooks/openssl"]
 	path = cookbooks/openssl
 	url = git@github.com:tollmanz/openssl.git
+[submodule "cookbooks/git"]
+	path = cookbooks/git
+	url = git@github.com:tollmanz/git.git
