@@ -16,3 +16,6 @@
 [submodule "cookbooks/build-essential"]
 	path = cookbooks/build-essential
 	url = git@github.com:tollmanz/build-essential.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git@github.com:tollmanz/openssl.git
