@@ -17,7 +17,7 @@ Vagrant::Config.run do |config|
 	config.vm.provision :chef_solo do |chef|
 
 		# Define the path to the cookbooks folder
-		chef.cookbooks_path = "../../cookbooks"
+		chef.cookbooks_path = "cookbooks"
 
 		# Define node data for use in recipes
 		chef.json = {
