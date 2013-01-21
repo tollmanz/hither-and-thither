@@ -25,3 +25,6 @@
 [submodule "cookbooks/curl"]
 	path = cookbooks/curl
 	url = git@github.com:tollmanz/cookbook-curl.git
+[submodule "cookbooks/wp-cli"]
+	path = cookbooks/wp-cli
+	url = git@github.com:tollmanz/cookbook-wp-cli.git
