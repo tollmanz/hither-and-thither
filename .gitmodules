@@ -28,3 +28,6 @@
 [submodule "cookbooks/wp-cli"]
 	path = cookbooks/wp-cli
 	url = git@github.com:tollmanz/cookbook-wp-cli.git
+[submodule "cookbooks/wordpress"]
+	path = cookbooks/wordpress
+	url = git@github.com:tollmanz/cookbook-wordpress.git
