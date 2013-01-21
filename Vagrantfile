@@ -35,7 +35,7 @@ Vagrant::Config.run do |config|
 		chef.add_recipe "php"
 		chef.add_recipe "nginx"
 		chef.add_recipe "mysql::server"
-		# chef.add_recipe "wp-cli"
+		chef.add_recipe "wp-cli"
 		# chef.add_recipe "wordpress"
 	end
 end
